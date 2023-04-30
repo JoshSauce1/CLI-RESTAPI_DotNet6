@@ -23,7 +23,7 @@ Please note that the large number of comments in the code are used as notes for 
 
 The application architecture and website look are shown below:
 
-![Application Architecture](MVC Application Architecture.drawio.png)
+![Application Architecture](https://github.com/JoshSauce1/CLI-RESTAPI_DotNet6/blob/master/MVC%20Application%20Architecture.drawio.png)
 
 ![Website Look](/images/website-look.png)
 
