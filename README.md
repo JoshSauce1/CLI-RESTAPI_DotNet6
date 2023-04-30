@@ -38,3 +38,9 @@ The API endpoints are as follows:
 - PATCH /api/commands/{id} - partially updates an existing command by its ID
 - DELETE /api/commands/{id} - deletes an existing command by its ID
 
+## Getting Started
+
+To get started with the CLI REST API, clone the repository and run the project on a local server. You can then use SwaggerUI or Postman to test the API endpoints and retrieve commands.
+
+Please note that there are extensive comments in the code for reference and future review.
+
