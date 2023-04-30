@@ -25,7 +25,7 @@ The application architecture and website look are shown below:
 
 ![Application Architecture](https://github.com/JoshSauce1/CLI-RESTAPI_DotNet6/blob/master/MVC%20Application%20Architecture.drawio.png)
 
-![Website Look](/images/website-look.png)
+![Website Look](https://github.com/JoshSauce1/CLI-RESTAPI_DotNet6/blob/master/SwaggerUI.png)
 
 ## API Endpoints
 
