@@ -23,7 +23,7 @@ Please note that the large number of comments in the code are used as notes for 
 
 The application architecture and website look are shown below:
 
-![Application Architecture]("C:\Users\joshu\Downloads\MVC Application Architecture.drawio.pdf")
+![Application Architecture](MVC Application Architecture.drawio.png)
 
 ![Website Look](/images/website-look.png)
 
